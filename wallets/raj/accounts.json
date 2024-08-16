@@ -1,0 +1,20 @@
+{
+  "solana": [
+    {
+      "address": "3qy77bdtKYgcKfXe21SUN3LMdrSCVr82BQpYiosXQUp8",
+      "privateKey": "517fc3806c0ae989be1d0f038c98ee7d:11a751994aa31853ab04f257fe3e9f8ad82fb037f9eba7c22c1961b6af3b3dc3e40b71c4ab1397fc536a04690517e19dcdf8e818c6785d664e840f38bbb5c67a"
+    },
+    {
+      "address": "3qy77bdtKYgcKfXe21SUN3LMdrSCVr82BQpYiosXQUp8",
+      "privateKey": "0b445171dbe21ce1e767a7c25ff61438:af0ba99d89e6c337ac5adb88a61af8d1fa552dc69af7d6d59c45641bc8d8c51374486048ce97e98a3bd97458e12004b919ca8c68bafec45433474f2d13917901"
+    },
+    {
+      "address": "3qy77bdtKYgcKfXe21SUN3LMdrSCVr82BQpYiosXQUp8",
+      "privateKey": "22a2e07a335d0e0a13771fdaa9183d72:ea3da7c5954fd30234a65e3fb3ce51bc1402f3b76112657eb507cc090deb5d3b9127cfe2d47af86968e6f639bc1fa927165baf1a59e5fdf7e27c29464ea5f206ad17da4fbe152893d047cb37b61e0f06b75046db6ddd4aa153975d17a6d62982ee64c580b20ebba1232d745b7f621c6e2f26bce83bd1a059d0cb0ffaea6bdb3a"
+    },
+    {
+      "address": "3qy77bdtKYgcKfXe21SUN3LMdrSCVr82BQpYiosXQUp8",
+      "privateKey": "0021072987d8a4d3a732ecef053509d7:22fbf52fda9b960fe25555ade1142c9d166cd57e2dec8ae51c1fb6beab15078422a7ec0ee86ec53ca3a07c0a23267dcc0eb60a1c69fe53b45d30f9cbd00675ed7ac94178fe6cf8a9ab8717e27c281a19f46a5587f90caca6d8c58a38da2559105c8b1a3af2e39cfe32bdf9fef837d2fc78010bffac36400f9c0ec3cc75546c1b"
+    }
+  ]
+}

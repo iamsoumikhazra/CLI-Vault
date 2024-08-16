@@ -1,0 +1,11 @@
+{
+  "ethereum": {
+    "chainId": 1,
+    "rpcUrl": "https://rpc.flashbots.net"
+  },
+  "solana": {
+    "chainId": 2,
+    "rpcUrl": "https://api.mainnet-beta.solana.com"
+  }
+}
+
