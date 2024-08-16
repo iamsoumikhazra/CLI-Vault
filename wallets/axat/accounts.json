@@ -1,0 +1,14 @@
+{
+  "ethereum": [
+    {
+      "address": "0x68c76026DeD3299F7C724A52e8544d420585dd6F",
+      "privateKey": "60536780cb84a56805b75948b9cdec48:b53a932e1756afb5cc8f44a58c3447ba3faae9460b978d8d67bcd6f63716fca4a14157ba038d80866ef01b5fe984abb19ff1c54b53e405630fb34acdbbe72819ce42"
+    }
+  ],
+  "solana": [
+    {
+      "address": "86cB2AFoXJXBDtBuseKcDqHWY6gGbgJsEW1JZ4a4Ktvw",
+      "privateKey": "c17f873909f8e8daa76dab2f5aad77b9:c642620e0c01020ef9d35e9c3ae7155c2f2dca336c9bfae345d29fda0cd2c3bf00be77b8e1e516ed4ec00ac0d267d2b66e36a58094fb0e91c0889baebc0fa0099fad503349fb1ae2fdf47f31f8534085d6292cdeed0036a967f55b522abfab26c45ecc1106bef8c66a8d28821e71bdbb573a4bb91c03a00a0778dd4cd6575ac5"
+    }
+  ]
+}

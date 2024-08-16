@@ -178,10 +178,17 @@ class MultiChainWallet {
 
       let accountData;
       if (network === "ethereum") {
-        const wallet = HDNodeWallet.fromMnemonic(decryptedMnemonic);
+        console.log(decryptedMnemonic);
+        const wallet = HDNodeWallet.fromPhrase(
+          decryptedMnemonic,
+          ``,
+          `m/44'/60'/0'/0/0`,
+        );
+
         const provider = new ethers.JsonRpcProvider(
           this.networks[network].rpcUrl,
         );
+        console.log(decryptedMnemonic);
         const newAccount = wallet.connect(provider);
         accountData = {
           address: newAccount.address,
